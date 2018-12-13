@@ -1,0 +1,45 @@
+.navbar-brand img{
+    
+width: 50px;
+    
+height: 50px;
+}
+.contact ul{
+    list-style: none;
+}
+.contact li{
+    padding-bottom: 10px;
+}
+.contact a{
+
+background: black;
+
+color: #fff;
+
+padding: 1px 12px;
+}
+.contact .humbly{
+        background: orange;
+}
+.menu img{
+    max-width: 100%;
+}
+.menu{
+    
+}
+footer{
+
+}
+footer span{
+    display: inline-block;
+    width: 45px;
+    height: 2px;
+    background: green;
+    margin-left: -10px;
+}
+.data{}
+footer p{
+    
+margin-left: -11px;
+
+}
